@@ -17,5 +17,6 @@
 
 
 ## For communcation
-### [![Telegram](https://img.shields.io/badge/-Telegram-090909?&style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rfqafhbr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?&style=for-the-badge&logo-linkedin&logoColor=007BB6)](https://www.linkedin.com/in/p4elintsev/)
+###
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?&style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rfqafhbr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?&style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/p4elintsev/)
