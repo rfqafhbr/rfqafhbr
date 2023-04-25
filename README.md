@@ -11,6 +11,8 @@
 
 
 ### Language and tools
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badges&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badged&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badged&logo=googlechrome&logoColor=2674f2)
